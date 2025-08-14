@@ -61,12 +61,3 @@ I have a diverse technical background. Here's a breakdown of the technologies I 
 
 -   **Learning:** Focusing on strengthening my fundamentals in Statistics, Probability, and mathematical modeling.
 -   **Building:** Exploring and planning projects in the field of Agentic AI.
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetdavut&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetdavut&layout=compact&langs_count=8&theme=dracula"/>
-</p>
