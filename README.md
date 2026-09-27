@@ -1,63 +1,30 @@
-# Hello, I'm Mehmet Davut 🌞
+# Mehmet Davut
 
-I'm a software developer from Türkiye with a passion for Machine Learning, Web Technologies, and building scalable applications. I enjoy tackling complex problems and turning ideas into reality.
+Helping companies build sustainable software and teams.
 
-- 👨🏻‍💻 &nbsp; Currently working as a Backend Developer at **[Mazepay](https://www.mazepay.com/)**.
-- 📫 &nbsp; How to reach me: Feel free to connect with me on social media!
+I run [MDSW](https://mdsw.tr), an independent technical studio in Istanbul, founded in 2013. I have been writing software since 2003 and professionally since 2007. MDSW takes on fractional CTO, founding engineer and applied AI engagements: I take over the technical side of a company and leave it running without me.
 
-<p align="left">
-  <a href="https://twitter.com/mehmetdavut" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/mehmetdavut" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+Since 2021 I have been a Senior Backend Engineer in the core team of [Mazepay](https://www.mazepay.com/), a Danish B2B spend and payments platform, contracted through MDSW.
 
----
+### Research
 
-### 🎓 Education
+My computer engineering thesis covers LoRA fine-tuning of small language models on synthetic Ruby code: 96 models across 8 architectures, where a 1.5B-parameter specialist closed most of the gap to a generalist 4.7 times its size. The paper is under review at *Automated Software Engineering*.
 
--   **Computer Engineering, MSc** (Thesis Stage)
--   **Entrepreneurship and Innovation in Technology, MSc**
--   **Marketing Communication, MFA**
+- [RubyCraft-3.4-Instruct](https://github.com/mehmetdavut/RubyCraft-3.4-Instruct): analysis notebooks and evaluation pipeline
+- [Models and datasets](https://huggingface.co/mehmetdavut) on Hugging Face
+- [MDSW 1](https://mdsw.tr/catalog/mdsw-1): the thesis in the MDSW catalog
 
----
+### Work
 
-### 🛠️ My Tech Stack
+- [Case notes](https://mdsw.tr/case-notes): past engagements, written as Architecture Decision Records
+- [Catalog](https://mdsw.tr/catalog): what MDSW has built or owns
 
-I have a diverse technical background. Here's a breakdown of the technologies I primarily use:
+Most of my work is in Ruby on Rails, Python, GraphQL, Terraform, Google Cloud and AWS.
 
-**Fields of Interest**
-<p align="left">
-  <img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge" alt="Natural Language Processing"/>
-</p>
+### Education
 
-**Languages & Frameworks**
-<p align="left">
-  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/></a>
-</p>
+Three master's degrees from Istanbul Bilgi University: MSc Computer Engineering, MSc Technology Entrepreneurship and Innovation, and MA Marketing Communications.
 
-**Frontend**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-</p>
+### Elsewhere
 
-**Cloud & DevOps**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/></a>
-</p>
-
----
-
-### 🚀 New Plans
-
--   **Learning:** Focusing on strengthening my fundamentals in Statistics, Probability, and mathematical modeling.
--   **Building:** Exploring and planning projects in the field of Agentic AI.
+[mdsw.tr](https://mdsw.tr/about) · [LinkedIn](https://www.linkedin.com/in/mehmetdavut) · [Hugging Face](https://huggingface.co/mehmetdavut) · [ORCID](https://orcid.org/0000-0001-9787-4588) · [X](https://x.com/MehmetDavut) · mehmet@mdsw.tr
